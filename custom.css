@@ -2,6 +2,6 @@ body{
 	background-image:url("shubham-dhage-NsPqV-WsZYY-unsplash.jpg");
 }
 
-h1{
-	color:white;
+#mainjumbotron {
+	background-image: url("shubham-dhage-NsPqV-WsZYY-unsplash.jpg");
 }
