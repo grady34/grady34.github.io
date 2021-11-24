@@ -10,6 +10,8 @@
 
     <title>Grady Allen</title>
 	
+	<link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/cover/">
+	
 	<style>
       .bd-placeholder-img {
         font-size: 1.125rem;
